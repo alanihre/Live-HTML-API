@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "LHElement.h"
 
-#define LH_DEBUG				YES
+#define LH_DEBUG				NO
 
 @interface LHUpdater : NSObject
 
